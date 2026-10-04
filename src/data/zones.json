@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Southern",
+    "states": [
+      "Karnataka",
+      "Kerala",
+      "Andhra Pradesh",
+      "Goa",
+      "Tamil Nadu",
+      "Telangana",
+      "Andaman and Nicobar Islands",
+      "Puducherry"
+    ],
+    "cityCount": 58,
+    "placeCount": 90,
+    "heroImage": "/images/KARNATAKA.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "name": "Northern",
+    "states": [
+      "Himachal Pradesh",
+      "Delhi",
+      "Rajasthan",
+      "Uttarakhand",
+      "Ladakh",
+      "Jammu and Kashmir",
+      "Punjab",
+      "Haryana"
+    ],
+    "cityCount": 59,
+    "placeCount": 85,
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/1000_Year_loop.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "name": "Eastern",
+    "states": [
+      "West Bengal",
+      "Odisha",
+      "Sikkim",
+      "Bihar",
+      "Jharkhand"
+    ],
+    "cityCount": 30,
+    "placeCount": 42,
+    "heroImage": "/images/west-bengal.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "name": "Western",
+    "states": [
+      "Maharashtra",
+      "Gujarat",
+      "Daman and Diu"
+    ],
+    "cityCount": 24,
+    "placeCount": 39,
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "name": "Central",
+    "states": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Chhattisgarh"
+    ],
+    "cityCount": 30,
+    "placeCount": 34,
+    "heroImage": "/images/uttar-pradesh.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    "name": "North East",
+    "states": [
+      "Assam",
+      "Tripura",
+      "Arunachal Pradesh"
+    ],
+    "cityCount": 10,
+    "placeCount": 12,
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/7/79/Siva_Dol.JPG",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop"
+  }
+]

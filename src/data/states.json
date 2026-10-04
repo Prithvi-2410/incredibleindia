@@ -1,0 +1,910 @@
+[
+  {
+    "name": "Maharashtra",
+    "zone": "Western",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Mumbai",
+      "Lonavala",
+      "Kolhapur",
+      "Shirdi",
+      "Ratnagiri",
+      "Ajanta",
+      "Aurangabad",
+      "Tarkarli",
+      "Nagpur",
+      "Pune",
+      "Satara",
+      "Matheran",
+      "Alibaug",
+      "Nashik"
+    ],
+    "placesCount": 24,
+    "topPlaces": [
+      "Siddhivinayak Temple",
+      "Mahalakshmi Temple",
+      "Sai Baba Temple",
+      "Ellora Caves",
+      "Mahalaxmi Temple"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 32,
+      "y": 58
+    },
+    "description": "Explore Maharashtra, an extraordinary State in Western India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 14
+  },
+  {
+    "name": "West Bengal",
+    "zone": "Eastern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Kolkata",
+      "Bolpur",
+      "Hooghly",
+      "Darjeeling",
+      "Digha",
+      "Murshidabad",
+      "Cooch Behar",
+      "Purulia",
+      "Siliguri",
+      "Sundarbans",
+      "Jalpaiguri"
+    ],
+    "placesCount": 20,
+    "topPlaces": [
+      "Dakshineswar Kali Temple",
+      "Belur Math",
+      "Kankalitala Temple",
+      "Howrah Bridge",
+      "Victoria Memorial"
+    ],
+    "heroImage": "/images/west-bengal.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 69,
+      "y": 49
+    },
+    "description": "Explore West Bengal, an extraordinary State in Eastern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 11
+  },
+  {
+    "name": "Uttar Pradesh",
+    "zone": "Central",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Mathura",
+      "Vrindavan",
+      "Noida",
+      "Ayodhya",
+      "Meerut",
+      "Porbandar",
+      "Varanasi",
+      "Agra",
+      "Sarnath",
+      "Allahabad",
+      "Lucknow",
+      "Jhansi",
+      "Fatehpur Sikri",
+      "Kanpur",
+      "Aligarh"
+    ],
+    "placesCount": 19,
+    "topPlaces": [
+      "Prem Mandir",
+      "Banke Bihari Temple",
+      "Barsana Mandir",
+      "Augarnath Temple",
+      "Kirti Mandir"
+    ],
+    "heroImage": "/images/uttar-pradesh.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 49,
+      "y": 37
+    },
+    "description": "Explore Uttar Pradesh, an extraordinary State in Central India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 15
+  },
+  {
+    "name": "Karnataka",
+    "zone": "Southern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Bangalore",
+      "Hampi",
+      "Murudeshwar",
+      "Halebidu",
+      "Mysore",
+      "Badami",
+      "Shivamogga",
+      "Gokarna",
+      "Chikmagalur",
+      "Mangalore",
+      "Bijapur",
+      "Bengaluru",
+      "Bandipur",
+      "Coorg"
+    ],
+    "placesCount": 18,
+    "topPlaces": [
+      "Murudeshwar Temple",
+      "Halebidu Hoysaleswara Temple",
+      "Hampi Archaeological Ruins",
+      "Mysore Palace",
+      "ISKCON Temple Bangalore"
+    ],
+    "heroImage": "/images/KARNATAKA.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 33,
+      "y": 73
+    },
+    "description": "Explore Karnataka, an extraordinary State in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 14
+  },
+  {
+    "name": "Himachal Pradesh",
+    "zone": "Northern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Spiti Valley",
+      "Bir Billing",
+      "McLeod Ganj",
+      "Shimla",
+      "dalhousie",
+      "Barot",
+      "Palampur",
+      "Mandi",
+      "Manikaran",
+      "Dalhousie",
+      "Kullu",
+      "Kinnaur",
+      "Narkanda",
+      "Chamba",
+      "Kangra",
+      "Shoja",
+      "Manali",
+      "Kufri"
+    ],
+    "placesCount": 18,
+    "topPlaces": [
+      "Key Monastery",
+      "Paragliding Site",
+      "Triund Trek",
+      "Barot Valley",
+      "Dalai Lama Temple"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/1000_Year_loop.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 38,
+      "y": 22
+    },
+    "description": "Explore Himachal Pradesh, an extraordinary State in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 18
+  },
+  {
+    "name": "Delhi",
+    "zone": "Northern",
+    "isUnionTerritory": true,
+    "entityType": "Union Territory",
+    "cities": [
+      "Delhi",
+      "New Delhi"
+    ],
+    "placesCount": 16,
+    "topPlaces": [
+      "Gurudwara Bangla Sahib",
+      "India Gate",
+      "Akshardham Temple",
+      "Sunder Nursery",
+      "Red Fort"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Front_view_of_Gurudwara_Bangla_Sahib%2C_Delhi.jpg/800px-Front_view_of_Gurudwara_Bangla_Sahib%2C_Delhi.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 37,
+      "y": 31
+    },
+    "description": "Explore Delhi, an extraordinary Union Territory in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 2
+  },
+  {
+    "name": "Kerala",
+    "zone": "Southern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Kochi",
+      "Thiruvananthapuram",
+      "Varkala",
+      "Alappuzha",
+      "Wayanad",
+      "Bekal",
+      "Nelliyampathy",
+      "Kovalam",
+      "Kannur",
+      "Munnar",
+      "Thekkady",
+      "Kozhikode",
+      "Kumarakom"
+    ],
+    "placesCount": 15,
+    "topPlaces": [
+      "Padmanabhaswamy Temple",
+      "Wonderla Amusement Park",
+      "Varkala Beach",
+      "Wayanad Wildlife Sanctuary",
+      "Bekal Fort"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Sree_Padmanabhaswamy_temple_01.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 34,
+      "y": 84
+    },
+    "description": "Explore Kerala, an extraordinary State in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 13
+  },
+  {
+    "name": "Rajasthan",
+    "zone": "Northern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Jaipur",
+      "Udaipur",
+      "Sawai Madhopur",
+      "Ajmer",
+      "Jodhpur",
+      "Chittorgarh",
+      "Mount Abu",
+      "Bikaner",
+      "Jaisalmer",
+      "Pushkar"
+    ],
+    "placesCount": 14,
+    "topPlaces": [
+      "Chittorgarh Fort",
+      "Amber Fort",
+      "Mehrangarh Fort",
+      "Lake Pichola",
+      "Ajmer Sharif Dargah"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chittorgarh_fort.JPG/1200px-Chittorgarh_fort.JPG",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1599661046289-e31897846e41?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 25,
+      "y": 36
+    },
+    "description": "Explore Rajasthan, an extraordinary State in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 10
+  },
+  {
+    "name": "Andhra Pradesh",
+    "zone": "Southern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Visakhapatnam",
+      "Vijayawada",
+      "Srisailam",
+      "Amravati",
+      "Puttaparthi",
+      "Vizianagaram",
+      "Anantapur",
+      "Kadapa",
+      "Kurnool",
+      "Guntur",
+      "Rajahmundry"
+    ],
+    "placesCount": 14,
+    "topPlaces": [
+      "Simhachalam Temple",
+      "Mallikarjuna Swamy Temple",
+      "Kanaka Durga Temple",
+      "Prasanthi Nilayam",
+      "Amaravathi Temple"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/1/18/Simhachalam_temple_from_a_hilltop.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 44,
+      "y": 70
+    },
+    "description": "Explore Andhra Pradesh, an extraordinary State in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 11
+  },
+  {
+    "name": "Madhya Pradesh",
+    "zone": "Central",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Ujjain",
+      "Orchha",
+      "Khajuraho",
+      "Bhopal",
+      "Pachmarhi",
+      "Bhimbetka",
+      "Gwalior",
+      "Jabalpur",
+      "Kanha",
+      "Bandhavgarh",
+      "Indore",
+      "Amarkantak",
+      "Chitrakoot",
+      "Mandu"
+    ],
+    "placesCount": 14,
+    "topPlaces": [
+      "Mahakaleshwar Jyotirlinga",
+      "Orchha Fort",
+      "Khajuraho Group of Monuments",
+      "Sanchi Stupa",
+      "Bhimbetka Rock Shelters"
+    ],
+    "heroImage": "/images/Madhya Pradesh.webp",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 42,
+      "y": 48
+    },
+    "description": "Explore Madhya Pradesh, an extraordinary State in Central India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 14
+  },
+  {
+    "name": "Uttarakhand",
+    "zone": "Northern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Badrinath",
+      "Uttarkashi",
+      "Chopta",
+      "Kedarnath",
+      "Joshimath",
+      "Haridwar",
+      "Dehradun",
+      "Auli",
+      "Rishikesh",
+      "Jim Corbett",
+      "Almora",
+      "Nainital",
+      "Mussoorie",
+      "Ranikhet"
+    ],
+    "placesCount": 14,
+    "topPlaces": [
+      "Kedarnath",
+      "Badrinath Temple",
+      "Tungnath Temple",
+      "Gangotri Temple",
+      "Valley of Flowers"
+    ],
+    "heroImage": "/images/Shri-Kedarnath-Yatra-.jpg",
+    "fallbackHeroImage": "/images/kedarnath-temple.webp",
+    "coords": {
+      "x": 44,
+      "y": 25
+    },
+    "description": "Explore Uttarakhand, an extraordinary State in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 14
+  },
+  {
+    "name": "Goa",
+    "zone": "Southern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Goa"
+    ],
+    "placesCount": 13,
+    "topPlaces": [
+      "Dudhsagar Falls",
+      "Palolem Beach",
+      "Arambol Beach",
+      "Basilica of Bom Jesus",
+      "Baga Beach"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Doodhsagar_Fall.jpg/1200px-Doodhsagar_Fall.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 27,
+      "y": 70
+    },
+    "description": "Explore Goa, an extraordinary State in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 1
+  },
+  {
+    "name": "Gujarat",
+    "zone": "Western",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Ahmedabad",
+      "Rann of Kutch",
+      "Somnath",
+      "Dwarka",
+      "Bhuj",
+      "Kevadia",
+      "Junagadh",
+      "Gandhinagar",
+      "Vadodara"
+    ],
+    "placesCount": 13,
+    "topPlaces": [
+      "Rann Utsav",
+      "Somnath Temple",
+      "Dwarkadhish Temple",
+      "Statue of Unity",
+      "Sabarmati Ashram"
+    ],
+    "heroImage": "https://www.rannutsav.com/blog/wp-content/uploads/2024/12/141013682_715635635803639_4674705074199093637_n-1.png",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 19,
+      "y": 46
+    },
+    "description": "Explore Gujarat, an extraordinary State in Western India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 9
+  },
+  {
+    "name": "Tamil Nadu",
+    "zone": "Southern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Rameswaram",
+      "Thanjavur",
+      "Madurai",
+      "Coimbatore",
+      "Chidambaram",
+      "Kanyakumari",
+      "Mahabalipuram",
+      "Tirunelveli",
+      "Yercaud",
+      "Ooty",
+      "Chennai",
+      "Kodaikanal"
+    ],
+    "placesCount": 13,
+    "topPlaces": [
+      "Brihadeeswarar Temple",
+      "Meenakshi Amman Temple",
+      "Marudamalai Temple",
+      "Nataraja Temple",
+      "Ramanathaswamy Temple"
+    ],
+    "heroImage": "https://cdn.britannica.com/66/250066-050-B34A9532/Brihadishvara-Temple-Thanjavur-Tamil-Nadu-India.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 40,
+      "y": 84
+    },
+    "description": "Explore Tamil Nadu, an extraordinary State in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 12
+  },
+  {
+    "name": "Odisha",
+    "zone": "Eastern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Puri",
+      "Konark",
+      "Bhubaneswar",
+      "Berhampur",
+      "Rourkela",
+      "Cuttack",
+      "Sambalpur",
+      "Kendujhar",
+      "Keonjhar",
+      "Balasore",
+      "Chilika"
+    ],
+    "placesCount": 11,
+    "topPlaces": [
+      "Jagannath Temple",
+      "Sun Temple",
+      "Lingaraj Temple",
+      "Tara Tarini Temple",
+      "Khandadhar Waterfall"
+    ],
+    "heroImage": "/images/PURI.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 58,
+      "y": 56
+    },
+    "description": "Explore Odisha, an extraordinary State in Eastern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 11
+  },
+  {
+    "name": "Telangana",
+    "zone": "Southern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Hyderabad"
+    ],
+    "placesCount": 10,
+    "topPlaces": [
+      "Birla Mandir",
+      "Charminar",
+      "Golconda Fort",
+      "Salar Jung Museum",
+      "Ramoji Film City"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Birla_Mandir%2C_Hyderabad.png",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 43,
+      "y": 62
+    },
+    "description": "Explore Telangana, an extraordinary State in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 1
+  },
+  {
+    "name": "Ladakh",
+    "zone": "Northern",
+    "isUnionTerritory": true,
+    "entityType": "Union Territory",
+    "cities": [
+      "Leh",
+      "Kargil",
+      "Dras",
+      "Diskit",
+      "Nubra Valley",
+      "Hemis"
+    ],
+    "placesCount": 10,
+    "topPlaces": [
+      "Pangong Tso",
+      "Dras War Memorial",
+      "Kargil War Memorial",
+      "Thiksey Monastery",
+      "Thiksey Monastery"
+    ],
+    "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/00/2f/67/img-20180620-wa0007-largejpg.jpg?w=900&h=500&s=1",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 43,
+      "y": 11
+    },
+    "description": "Explore Ladakh, an extraordinary Union Territory in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 6
+  },
+  {
+    "name": "Assam",
+    "zone": "North East",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Guwahati",
+      "Sivasagar",
+      "Majuli",
+      "Manas",
+      "Kaziranga",
+      "Hajo"
+    ],
+    "placesCount": 8,
+    "topPlaces": [
+      "Sivasagar Sivadol",
+      "Majuli Island",
+      "Kamakhya Temple",
+      "Manas National Park",
+      "Hayagriva Madhava Temple"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/7/79/Siva_Dol.JPG",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 81,
+      "y": 36
+    },
+    "description": "Explore Assam, an extraordinary State in North East India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 6
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "zone": "Northern",
+    "isUnionTerritory": true,
+    "entityType": "Union Territory",
+    "cities": [
+      "Jammu",
+      "Srinagar",
+      "Pahalgam",
+      "Anantnag",
+      "Kishtwar",
+      "Udhampur"
+    ],
+    "placesCount": 6,
+    "topPlaces": [
+      "Vaishno Devi",
+      "Dal Lake",
+      "Betaab Valley",
+      "Amarnath Cave",
+      "Kishtwar National Park"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Vaishno_devi.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 32,
+      "y": 15
+    },
+    "description": "Explore Jammu and Kashmir, an extraordinary Union Territory in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 6
+  },
+  {
+    "name": "Sikkim",
+    "zone": "Eastern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Gangtok",
+      "Ravangla",
+      "Namchi",
+      "Pelling"
+    ],
+    "placesCount": 5,
+    "topPlaces": [
+      "Buddha Park",
+      "Char Dham",
+      "Rumtek Monastery",
+      "Pemayangtse Monastery",
+      "Nathula Pass"
+    ],
+    "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ef/73/74/awesomeness-overloaded.jpg?w=900&h=500&s=1",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 69,
+      "y": 33
+    },
+    "description": "Explore Sikkim, an extraordinary State in Eastern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 4
+  },
+  {
+    "name": "Punjab",
+    "zone": "Northern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Amritsar",
+      "Chandigarh"
+    ],
+    "placesCount": 4,
+    "topPlaces": [
+      "Golden Temple (Harmandir Sahib)",
+      "Jallianwala Bagh",
+      "Wagah Border",
+      "Rock Garden"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Temple_of_Amrithsar_7.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 31,
+      "y": 25
+    },
+    "description": "Explore Punjab, an extraordinary State in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 2
+  },
+  {
+    "name": "Bihar",
+    "zone": "Eastern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Patna",
+      "Bodh Gaya"
+    ],
+    "placesCount": 4,
+    "topPlaces": [
+      "Takhat Shri Harimandir Ji Patna Sahib",
+      "Mahabodhi Temple",
+      "Budhha Smriti Park",
+      "Sanjay Gandhi Biological Park"
+    ],
+    "heroImage": "https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/patna/takht_sri_harmandir_sahib/20.%20Takhat-Sri-Harimandir-Ji.jpg/jcr:content/renditions/cq5dam.web.480.480.jpeg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 63,
+      "y": 40
+    },
+    "description": "Explore Bihar, an extraordinary State in Eastern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 2
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "zone": "Southern",
+    "isUnionTerritory": true,
+    "entityType": "Union Territory",
+    "cities": [
+      "Havelock Island",
+      "Port Blair",
+      "Neil Island",
+      "Baratang Island"
+    ],
+    "placesCount": 4,
+    "topPlaces": [
+      "Radhanagar Beach",
+      "Cellular Jail",
+      "Bharatpur Beach",
+      "Limestone Caves"
+    ],
+    "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/89/e9/f8/radhanagar-beach.jpg?w=900&h=500&s=1",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 84,
+      "y": 80
+    },
+    "description": "Explore Andaman and Nicobar Islands, an extraordinary Union Territory in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 4
+  },
+  {
+    "name": "Haryana",
+    "zone": "Northern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Gurugram"
+    ],
+    "placesCount": 3,
+    "topPlaces": [
+      "DLF CyberHub",
+      "Ambience Mall",
+      "Kingdom of Dreams"
+    ],
+    "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b8/e2/a4/photo5jpg.jpg?w=1200&h=-1&s=1",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 35,
+      "y": 29
+    },
+    "description": "Explore Haryana, an extraordinary State in Northern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 1
+  },
+  {
+    "name": "Puducherry",
+    "zone": "Southern",
+    "isUnionTerritory": true,
+    "entityType": "Union Territory",
+    "cities": [
+      "Puducherry",
+      "Auroville"
+    ],
+    "placesCount": 3,
+    "topPlaces": [
+      "Promenade Beach",
+      "Paradise Beach",
+      "Auroville"
+    ],
+    "heroImage": "https://static.toiimg.com/photo/48552994.cms",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 45,
+      "y": 80
+    },
+    "description": "Explore Puducherry, an extraordinary Union Territory in Southern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 2
+  },
+  {
+    "name": "Tripura",
+    "zone": "North East",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Agartala",
+      "Dumboor",
+      "Unakoti"
+    ],
+    "placesCount": 3,
+    "topPlaces": [
+      "Ujjayanta Palace",
+      "Unakoti Rock Carvings",
+      "Dumboor Lake"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 78,
+      "y": 46
+    },
+    "description": "Explore Tripura, an extraordinary State in North East India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 3
+  },
+  {
+    "name": "Daman and Diu",
+    "zone": "Western",
+    "isUnionTerritory": true,
+    "entityType": "Union Territory",
+    "cities": [
+      "Diu"
+    ],
+    "placesCount": 2,
+    "topPlaces": [
+      "Diu Fort",
+      "Naida Caves"
+    ],
+    "heroImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/53/f4/8e/beutiful-place.jpg?w=900&h=500&s=1",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1599661046289-e31897846e41?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 24,
+      "y": 52
+    },
+    "description": "Explore Daman and Diu, an extraordinary Union Territory in Western India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 1
+  },
+  {
+    "name": "Jharkhand",
+    "zone": "Eastern",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Deoghar",
+      "Ranchi"
+    ],
+    "placesCount": 2,
+    "topPlaces": [
+      "Baba Baidyanath Temple",
+      "Pahari Mandir"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Baba_Dham.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1548013146-72479768bada?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 62,
+      "y": 47
+    },
+    "description": "Explore Jharkhand, an extraordinary State in Eastern India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 2
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "zone": "North East",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Tawang"
+    ],
+    "placesCount": 1,
+    "topPlaces": [
+      "Tawang Monastery"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tawang_Monastery_%28Tibetan_Buddhist%29.jpg",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1561361058-c24cecae35ca?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 89,
+      "y": 28
+    },
+    "description": "Explore Arunachal Pradesh, an extraordinary State in North East India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 1
+  },
+  {
+    "name": "Chhattisgarh",
+    "zone": "Central",
+    "isUnionTerritory": false,
+    "entityType": "State",
+    "cities": [
+      "Bastar"
+    ],
+    "placesCount": 1,
+    "topPlaces": [
+      "Chitrakote Falls"
+    ],
+    "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/91/Chitrakot_waterfalls.JPG",
+    "fallbackHeroImage": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?q=80&w=1200&auto=format&fit=crop",
+    "coords": {
+      "x": 53,
+      "y": 52
+    },
+    "description": "Explore Chhattisgarh, an extraordinary State in Central India celebrated for its grand traditions, diverse landscapes, and iconic attractions.",
+    "cityCount": 1
+  }
+]
